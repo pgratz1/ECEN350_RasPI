@@ -8,7 +8,7 @@ extern long long int test(long long int a, long long int b);
 int main(void)
 {
     long long int c = test(3, 5);
-    printf("Result of test(3, 5) = %d\n", c);
+    printf("Result of test(3, 5) = %lld\n", c);
 //    long long int f = test2(6, 5);
     return 0;
 }
