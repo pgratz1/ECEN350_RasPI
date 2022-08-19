@@ -19,5 +19,5 @@ test:
         num1:	.byte 45
         num2:	.hword 0xf654
         num3:	.word 0xcafebabe
-        num4:	.word 0xfeedface
+        num4:	.quad 0xfeedface
 
